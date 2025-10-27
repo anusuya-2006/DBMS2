@@ -1,6 +1,6 @@
 DECLARE 
  f NUMBER := 1;
- n NUMBER := 5;  --Compute 5!
+ n NUMBER := 5;
 BEGIN
   FOR i IN 1..n LOOP
 f := f * i; 
