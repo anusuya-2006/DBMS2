@@ -1,5 +1,5 @@
 DECLARE 
- f NUMBER := 1;
+ f NUMBER := 0;
  n NUMBER := 5;
 BEGIN
   FOR i IN 1..n LOOP
