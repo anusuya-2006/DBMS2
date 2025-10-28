@@ -1,3 +1,5 @@
+# Factorial program 
+# using PL/SQL 
 DECLARE 
  f NUMBER := 0;
  n NUMBER := 5;
